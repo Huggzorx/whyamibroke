@@ -1,0 +1,43 @@
+Code,Meaning
+BGC,Bank Giro Credit
+BNS,Bonus BP
+BP,Bill Payment
+CHG,Charge
+CHQ,Cheque
+COM,Commission
+COR,Correction
+CPT,Cashpoint
+CSH,Cash
+CSQ,Cash/Cheque
+DD,Direct Debit
+DEB,Debit Card
+DEP,Deposit
+EFT,EFTPOS (electronic funds transfer at point of sale)
+EUR,Euro Cheque
+FE,Foreign Exchange
+FEE,Fixed Service Charge
+FPC,Faster Payment Charge
+FPI,Faster Payment Incoming
+FPO,Faster Payment Outgoing
+IB,Internet Banking
+INT,Interest
+MPI,Mobile Payment Incoming
+MPO,Mobile Payment Outgoing
+MTG,Mortgage
+NS,National Savings Dividend
+NSC,National Savings Certificates
+OTH,Other
+PAY,Payment
+PSB,Premium Savings Bonds
+PSV,Paysave
+SAL,Salary
+SPB,Cashpoint
+SO,Standing Order
+STK,Stock/Shares
+TD,Dep Term Dec
+TDG,Term Deposit Gross Interest
+TDI,Dep Term Inc
+TDN,Term Deposit Net Interest
+TFR,Transfer
+UT,Unit Trust
+SUR,Excess Reject
